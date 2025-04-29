@@ -1,0 +1,10 @@
+{"apogee": 3255.44174690853, "apogee_time": 24.00596569400194, "x_impact": 332.06434308964674, "average_reynolds_number": 1187565.7645448863, "date": [2025, 4, 30, 12]}
+{"apogee": 2364.2433962820355, "apogee_time": 21.14369004931381, "x_impact": 321.48514959762343, "average_reynolds_number": 925167.3849265719, "date": [2025, 4, 30, 12]}
+{"apogee": 2644.139597194811, "apogee_time": 22.0357566313507, "x_impact": 548.9547822930651, "average_reynolds_number": 1021663.641052343, "date": [2025, 4, 30, 12]}
+{"apogee": 3080.101861421628, "apogee_time": 23.373133698462784, "x_impact": 351.83971151252325, "average_reynolds_number": 1166456.526619803, "date": [2025, 4, 30, 12]}
+{"apogee": 2302.2199832762362, "apogee_time": 21.00108374574575, "x_impact": 281.5292295083443, "average_reynolds_number": 893385.1097824208, "date": [2025, 4, 30, 12]}
+{"apogee": 3032.2156491484134, "apogee_time": 23.26433385198687, "x_impact": -48.146198032233805, "average_reynolds_number": 1115429.2259171116, "date": [2025, 4, 30, 12]}
+{"apogee": 2562.30588671521, "apogee_time": 21.943745708783005, "x_impact": 316.9041932386778, "average_reynolds_number": 962379.4054773224, "date": [2025, 4, 30, 12]}
+{"apogee": 3069.49339453906, "apogee_time": 23.557974451016563, "x_impact": 525.3939331473964, "average_reynolds_number": 1119056.3329970741, "date": [2025, 4, 30, 12]}
+{"apogee": 3533.3822028107256, "apogee_time": 24.72828450729156, "x_impact": 630.4314552434216, "average_reynolds_number": 1238002.9629938933, "date": [2025, 4, 30, 12]}
+{"apogee": 1459.5537240796857, "apogee_time": 17.359666943038594, "x_impact": 87.99047178701257, "average_reynolds_number": 649422.5125861934, "date": [2025, 4, 30, 12]}
